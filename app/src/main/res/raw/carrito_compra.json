@@ -1,0 +1,29 @@
+[
+  {
+    "idProducto": 16,
+    "descripcion": "HS35 Stereo - Azul - Audífonos Multiplataforma",
+    "precio": 229.9,
+    "cantidad": 2,
+    "idCategoria": 1,
+    "idMarca": 3,
+    "url": "https://i.imgur.com/9qP7Epn.jpg"
+  },
+  {
+    "idProducto": 19,
+    "descripcion": "Yeti Nano Micrófono",
+    "precio": 359.9,
+    "cantidad": 1,
+    "idCategoria": 3,
+    "idMarca": 2,
+    "url": "https://i.imgur.com/jpWO3sE.jpg"
+  },
+  {
+    "idProducto": 25,
+    "descripcion": "G502 Hero K/da Ed Mouse - Blanco/negro",
+    "precio": 289.9,
+    "cantidad": 3,
+    "idCategoria": 5,
+    "idMarca": 5,
+    "url": "https://i.imgur.com/9BzDWWP.jpg"
+  }
+]

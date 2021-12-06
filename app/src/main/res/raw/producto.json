@@ -1,0 +1,128 @@
+[
+  {
+    "idProducto": 15,
+    "descripcion": "G435 Lightspeed Negro - Audífonos Multiplataforma",
+    "precio": 399.9,
+    "stock": 433,
+    "idCategoria": 1,
+    "idMarca": 5,
+    "url": "https://i.imgur.com/I7sONyq.jpg"
+  },
+  {
+    "idProducto": 16,
+    "descripcion": "HS35 Stereo - Azul - Audífonos Multiplataforma",
+    "precio": 229.9,
+    "stock": 0,
+    "idCategoria": 1,
+    "idMarca": 3,
+    "url": "https://i.imgur.com/9qP7Epn.jpg"
+  },
+  {
+    "idProducto": 17,
+    "descripcion": "VC C925E Webcam USB2.0",
+    "precio": 369.9,
+    "stock": 72,
+    "idCategoria": 2,
+    "idMarca": 5,
+    "url": "https://i.imgur.com/stiBpTR.jpg"
+  },
+  {
+    "idProducto": 18,
+    "descripcion": "Kiyo - Cámara de Streaming con Aro de Luz",
+    "precio": 529.9,
+    "stock": 495,
+    "idCategoria": 2,
+    "idMarca": 8,
+    "url": "https://i.imgur.com/c3Lmu0B.jpg"
+  },
+  {
+    "idProducto": 19,
+    "descripcion": "Yeti Nano Micrófono",
+    "precio": 359.9,
+    "stock": 67,
+    "idCategoria": 3,
+    "idMarca": 2,
+    "url": "https://i.imgur.com/jpWO3sE.jpg"
+  },
+  {
+    "idProducto": 20,
+    "descripcion": "Monitor LCD Full HD Con Powersensor 221b7q",
+    "precio": 1049.9,
+    "stock": 496,
+    "idCategoria": 4,
+    "idMarca": 7,
+    "url": "https://i.imgur.com/2kpdhDE.jpg"
+  },
+  {
+    "idProducto": 21,
+    "descripcion": "Monitor Gaming Curvo 32\" C32G2E Full HD 165hz",
+    "precio": 1299.9,
+    "stock": 325,
+    "idCategoria": 4,
+    "idMarca": 1,
+    "url": "https://i.imgur.com/iz7fR6u.jpg"
+  },
+  {
+    "idProducto": 22,
+    "descripcion": "Monitor Gamer MAG321CQR LED 31.5 144HZ",
+    "precio": 3099.9,
+    "stock": 164,
+    "idCategoria": 4,
+    "idMarca": 6,
+    "url": "https://i.imgur.com/pltAEcg.jpg"
+  },
+  {
+    "idProducto": 23,
+    "descripcion": "Mouse FPS/Moba Night Sword RGB",
+    "precio": 499.9,
+    "stock": 82,
+    "idCategoria": 5,
+    "idMarca": 3,
+    "url": "https://i.imgur.com/R5AdwMH.jpg"
+  },
+  {
+    "idProducto": 24,
+    "descripcion": "Naga Pro Wireless Mouse Inalámbrico - Chroma Black",
+    "precio": 659.9,
+    "stock": 482,
+    "idCategoria": 5,
+    "idMarca": 8,
+    "url": "https://i.imgur.com/AlcBurA.jpg"
+  },
+  {
+    "idProducto": 25,
+    "descripcion": "G502 Hero K/da Ed Mouse - Blanco/negro",
+    "precio": 289.9,
+    "stock": 144,
+    "idCategoria": 5,
+    "idMarca": 5,
+    "url": "https://i.imgur.com/9BzDWWP.jpg"
+  },
+  {
+    "idProducto": 26,
+    "descripcion": "Apex 3 Spanish Teclado",
+    "precio": 329.9,
+    "stock": 304,
+    "idCategoria": 6,
+    "idMarca": 9,
+    "url": "https://i.imgur.com/u4rPQW8.jpg"
+  },
+  {
+    "idProducto": 27,
+    "descripcion": "Apex 7 Tkl Red Teclado",
+    "precio": 879.9,
+    "stock": 126,
+    "idCategoria": 6,
+    "idMarca": 9,
+    "url": "https://i.imgur.com/u5mTdij.jpg"
+  },
+  {
+    "idProducto": 28,
+    "descripcion": "Alloy Origins Core Teclado Mecánico - Aqua",
+    "precio": 539.9,
+    "stock": 66,
+    "idCategoria": 6,
+    "idMarca": 4,
+    "url": "https://i.imgur.com/qbCgp5g.jpg"
+  }
+]

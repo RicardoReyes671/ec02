@@ -1,0 +1,50 @@
+[
+  {
+    "descripcion": "Audífonos",
+    "idCategoria": 1
+  },
+  {
+    "descripcion": "Cámaras Web",
+    "idCategoria": 2
+  },
+  {
+    "descripcion": "Micrófonos",
+    "idCategoria": 3
+  },
+  {
+    "descripcion": "Monitores",
+    "idCategoria": 4
+  },
+  {
+    "descripcion": "Mouse",
+    "idCategoria": 5
+  },
+  {
+    "descripcion": "Teclados",
+    "idCategoria": 6
+  },
+  {
+    "descripcion": "Audífonos",
+    "idCategoria": 7
+  },
+  {
+    "descripcion": "Cámaras Web",
+    "idCategoria": 8
+  },
+  {
+    "descripcion": "Micrófonos",
+    "idCategoria": 9
+  },
+  {
+    "descripcion": "Monitores",
+    "idCategoria": 10
+  },
+  {
+    "descripcion": "Mouse",
+    "idCategoria": 11
+  },
+  {
+    "descripcion": "Teclados",
+    "idCategoria": 12
+  }
+]

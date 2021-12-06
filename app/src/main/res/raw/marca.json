@@ -1,0 +1,74 @@
+[
+  {
+    "idMarca": 1,
+    "nombre": "AOC"
+  },
+  {
+    "idMarca": 2,
+    "nombre": "Blue"
+  },
+  {
+    "idMarca": 3,
+    "nombre": "Corsair"
+  },
+  {
+    "idMarca": 4,
+    "nombre": "HyperX"
+  },
+  {
+    "idMarca": 5,
+    "nombre": "Logitech"
+  },
+  {
+    "idMarca": 6,
+    "nombre": "MSI"
+  },
+  {
+    "idMarca": 7,
+    "nombre": "Philips"
+  },
+  {
+    "idMarca": 8,
+    "nombre": "Razer"
+  },
+  {
+    "idMarca": 9,
+    "nombre": "SteelSeries"
+  },
+  {
+    "idMarca": 10,
+    "nombre": "AOC"
+  },
+  {
+    "idMarca": 11,
+    "nombre": "Blue"
+  },
+  {
+    "idMarca": 12,
+    "nombre": "Corsair"
+  },
+  {
+    "idMarca": 13,
+    "nombre": "HyperX"
+  },
+  {
+    "idMarca": 14,
+    "nombre": "Logitech"
+  },
+  {
+    "idMarca": 15,
+    "nombre": "MSI"
+  },
+  {
+    "idMarca": 16,
+    "nombre": "Philips"
+  },
+  {
+    "idMarca": 17,
+    "nombre": "Razer"
+  },
+  {
+    "idMarca": 18,
+    "nombre": "SteelSeries"
+  }
+]
